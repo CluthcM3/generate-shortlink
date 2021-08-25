@@ -1,2 +1,6 @@
-# generate-shortlink
-spam spam moment
+# Generate Shortlink Unlimited
+
+
+### Usage
+
+php a.php
